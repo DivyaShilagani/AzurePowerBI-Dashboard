@@ -28,3 +28,5 @@ Objectives are:
 - Interactivity:
   - Filters and slicers for brand, category, and time period.
   - Page navigation and drill-through features for detailed brand views.
+
+<img width="656" height="335" alt="image" src="https://github.com/user-attachments/assets/3d04d43e-a8c5-47f9-8508-812c2de2401f" />
